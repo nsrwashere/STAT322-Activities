@@ -2,8 +2,9 @@
 """
 Created on Tue May 14 08:16:29 2024
 
-@author: Home
+@author: NRoque
 """
+# BAYESIAN STATISTICS IN PYTHON ---THE PRIOR
 
 import scipy.stats as sts 
 import numpy as np 
